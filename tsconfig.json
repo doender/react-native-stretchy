@@ -11,7 +11,8 @@
     "moduleResolution": "node",
     "noEmitOnError": true,
     "target": "esnext",
-    "outDir": "./lib/dist"
+    "outDir": "./lib/dist",
+    "types": ["react", "jest"]
   },
   "exclude": [
     "node_modules",
