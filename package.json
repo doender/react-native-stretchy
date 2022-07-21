@@ -45,10 +45,6 @@
   },
   "homepage": "https://github.com/hamidhadi/react-native-stretchy#readme",
   "dependencies": {},
-  "peerDependencies": {
-    "react": "^16.11.0",
-    "react-native": ">=0.60.0"
-  },
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/runtime": "^7.9.2",
